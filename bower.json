@@ -1,0 +1,21 @@
+{
+  "name": "react-gallery",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Betty <betty@lytana.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/petitbetty/travel-site",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "blueimp-gallery": "^2.25.0"
+  }
+}
