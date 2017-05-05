@@ -1,6 +1,6 @@
-#A photo gallery build using React.js, Webpack, Bootstrap, and Sass(css)
+# A photo gallery build using React.js, Webpack, Bootstrap, and Sass(css)
 
-##Installation
+## Installation
 1. git clone https://github.com/gdangelo/react-starter.git
 2. Change directory with cd react-starter
 3. Install the dependencies with npm and bower npm install && bower install
